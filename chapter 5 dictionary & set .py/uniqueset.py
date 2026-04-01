@@ -1,0 +1,18 @@
+s= set()
+
+n= int(input("enter number: "))
+s.add(n)
+n= int(input("enter number: "))
+s.add(n)
+n= int(input("enter number: "))
+s.add(n)
+n= int(input("enter number: "))
+s.add(n)
+n= int(input("enter number: "))
+s.add(n)
+n= int(input("enter number: "))
+s.add(n)
+n= int(input("enter number: "))
+s.add(n)
+
+print(s)
